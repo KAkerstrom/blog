@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ghostwriter example</title>
-    <link>blog.kakes.ca/tags/</link>
+    <link>http://blog.kakes.ca/tags/</link>
     <description>Recent content in Tags on Ghostwriter example</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate><atom:link href="blog.kakes.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate><atom:link href="http://blog.kakes.ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>development</title>
-      <link>blog.kakes.ca/tags/development/</link>
+      <link>http://blog.kakes.ca/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/development/</guid>
+      <guid>http://blog.kakes.ca/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>blog.kakes.ca/tags/go/</link>
+      <link>http://blog.kakes.ca/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/go/</guid>
+      <guid>http://blog.kakes.ca/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>blog.kakes.ca/tags/golang/</link>
+      <link>http://blog.kakes.ca/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/golang/</guid>
+      <guid>http://blog.kakes.ca/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>blog.kakes.ca/tags/templates/</link>
+      <link>http://blog.kakes.ca/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/templates/</guid>
+      <guid>http://blog.kakes.ca/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>blog.kakes.ca/tags/themes/</link>
+      <link>http://blog.kakes.ca/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/themes/</guid>
+      <guid>http://blog.kakes.ca/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>blog.kakes.ca/tags/hugo/</link>
+      <link>http://blog.kakes.ca/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>blog.kakes.ca/tags/hugo/</guid>
+      <guid>http://blog.kakes.ca/tags/hugo/</guid>
       <description></description>
     </item>
     
