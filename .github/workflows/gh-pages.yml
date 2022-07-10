@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --config ${{ secrets.GITHUB_WORKSPACE }}/docs/config.yml --minify
+        run: hugo --config ${{ GITHUB_WORKSPACE }}/docs/config.yml --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
