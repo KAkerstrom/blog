@@ -126,7 +126,7 @@ disableImageOptimization = false
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
-
+   
 [buymeacoffee]
   # identifier = ""
   # globalWidget = true
